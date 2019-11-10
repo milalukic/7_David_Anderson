@@ -5,4 +5,4 @@ Autori:
 Mila Lukic
 Andjela Niketic
 Branko Ilic
-Veljko Kucinar
+Veljko Kucina
